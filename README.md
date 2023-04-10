@@ -1,1 +1,1 @@
-# AutoClicker-C-
+# AutoClicker v2

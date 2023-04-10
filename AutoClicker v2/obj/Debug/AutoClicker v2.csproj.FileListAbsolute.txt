@@ -1,0 +1,11 @@
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\bin\Debug\AutoClicker v2.exe.config
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\bin\Debug\AutoClicker v2.exe
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\bin\Debug\AutoClicker v2.pdb
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker v2.csproj.AssemblyReference.cache
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClickerv2.Form1.resources
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker_v2.Properties.Resources.resources
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker v2.csproj.GenerateResource.cache
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker v2.csproj.CoreCompileInputs.cache
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker v2.exe
+C:\Users\Digital-S(Hidden)\source\repos\AutoClicker v2\AutoClicker v2\obj\Debug\AutoClicker v2.pdb
